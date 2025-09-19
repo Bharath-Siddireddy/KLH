@@ -12,7 +12,7 @@ function App() {
         Click on the Vite and React logos to learn more.
       </h1>
       <h1 className="read-the-docs">
-        Click on the Vite (changed in github)
+        Click on the Vite (changed in github).
       </h1>
     </>
   )
