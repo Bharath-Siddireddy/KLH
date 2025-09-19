@@ -14,6 +14,7 @@ function App() {
       <h1 className="read-the-docs">
         Click on the Vite (changed in github)....
       </h1>
+      <h1>contributed by pruthvi</h1>
     </>
   )
 }
