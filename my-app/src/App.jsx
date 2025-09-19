@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1 className="read-the-docs">
-        Click on the Vite and React logos to learn more........
+        Click on the Vite and React logos to learn more.
       </h1>
       <h1 className="read-the-docs">
         Click on the Vite (changed in github)
